@@ -71,3 +71,21 @@ deploy:
   type: git
   repo: git@github.com:moleaf/moleaf.github.io.git
   branch: master
+
+# plugin
+marked:
+    gfm: true
+    pedantic: false
+    sanitize: false
+    tables: true
+    breaks: true
+    smartLists: true
+    smartypants: true
+
+#search:
+    path: search.xml
+    field: post
+
+#sitemap
+sitemap:
+    path: sitemap.xml
