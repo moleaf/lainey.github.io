@@ -8,6 +8,7 @@ tags:
 并非安利贴，纯技术干货，按步骤做实测有效~
 
 ## **github**
+
 ### **git安装**
 1.[git下载](https://git-scm.com/download/win)  自行安装  
 2.打开git  输入命令  ssh-keygen -t rsa -C "youremailaddress" youremailaddress替换成自己的邮箱地址，它会要你输入密码，直接回车不设密码即可

@@ -82,10 +82,3 @@ marked:
     smartLists: true
     smartypants: true
 
-#search:
-    path: search.xml
-    field: post
-
-#sitemap
-sitemap:
-    path: sitemap.xml
