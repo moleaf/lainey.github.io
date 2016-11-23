@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lainey&#39;s blog</title>
-  
+  <subtitle>别把放弃当洒脱</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://moleaf.github.io/"/>
