@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lainey&#39;s blog</title>
-  <subtitle>别把放弃当洒脱</subtitle>
+  <subtitle>love code, love life, love husband, love friends, I&#39;m a lovely girl!</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://moleaf.github.io/"/>
@@ -47,9 +47,9 @@
     <link href="http://moleaf.github.io/2016/11/23/github-hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
     <id>http://moleaf.github.io/2016/11/23/github-hexo搭建个人博客/</id>
     <published>2016-11-23T07:13:57.000Z</published>
-    <updated>2016-11-23T12:36:21.700Z</updated>
+    <updated>2016-11-23T14:39:01.497Z</updated>
     
-    <content type="html"><![CDATA[<p>并非安利贴，纯技术干货，按步骤做实测有效~</p>
+    <content type="html"><![CDATA[<p>非安利贴，纯技术干货，按步骤做实测有效~</p>
 <h2 id="github"><a href="#github" class="headerlink" title="github"></a><strong>github</strong></h2><h3 id="git安装"><a href="#git安装" class="headerlink" title="git安装"></a><strong>git安装</strong></h3><p>1.<a href="https://git-scm.com/download/win" target="_blank" rel="external">git下载</a>  自行安装<br>2.打开git  输入命令  ssh-keygen -t rsa -C “youremailaddress” youremailaddress替换成自己的邮箱地址，它会要你输入密码，直接回车不设密码即可</p>
 <h3 id="github配置"><a href="#github配置" class="headerlink" title="github配置"></a><em>github配置</em></h3><p>1.首先上<a href="https://github.com/" target="_blank" rel="external">github官网</a>上创建属于自己的个人账户，账户名记为<em>username</em><br>2.然后新建一个repository, 名字取为 username.github.io  （username替换成自己的用户名）其他默认就行<br>3.如果是第一次使用还需要再本机上生成秘钥并添加到自己的github账户上<br>    在github上点击自己的账户，找到Settings -&gt;  SSH and GPG keys -&gt; New SSH key title随便写，然后在电脑里找 C:\Users\username.ssh   username是你的电脑账户名，在该文件夹下有id_rsa.pub文件，用记事本打开，全选复制到key框中 -&gt; Add SSH key </p>
 <h2 id="hexo"><a href="#hexo" class="headerlink" title="hexo"></a><strong>hexo</strong></h2><h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a><strong>安装</strong></h3><p>1.安装nodejs      <a href="https://nodejs.org/zh-cn/" target="_blank" rel="external">下载地址</a>  自行安装<br>2.安装hexo          cmd下输入  npm install -g hexo-cli</p>
@@ -69,8 +69,8 @@
     
     <summary type="html">
     
-      &lt;p&gt;并非安利贴，纯技术干货，按步骤做实测有效~&lt;/p&gt;
-&lt;h2 id=&quot;github&quot;&gt;&lt;a href=&quot;#github&quot; class=&quot;headerlink&quot; title=&quot;github&quot;&gt;&lt;/a&gt;&lt;strong&gt;github&lt;/strong&gt;&lt;/h2&gt;&lt;h3 id=&quot;git
+      &lt;p&gt;非安利贴，纯技术干货，按步骤做实测有效~&lt;/p&gt;
+&lt;h2 id=&quot;github&quot;&gt;&lt;a href=&quot;#github&quot; class=&quot;headerlink&quot; title=&quot;github&quot;&gt;&lt;/a&gt;&lt;strong&gt;github&lt;/strong&gt;&lt;/h2&gt;&lt;h3 id=&quot;git安
     
     </summary>
     
